@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @salemgamal
-- 👀 I’m interested in Mobile Apps development using "Kotlin" 
-- 🌱 I’m currently learning Backend Dev using "Python"
 - 📫 How to reach me   Email: salem.g.salem.m@gmail.com | LinkedIn: " linkedin.com/in/salemgamall/ ".
 
 <!---
