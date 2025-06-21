@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @salemgamal  
 - 📫 How to reach me:  
-  - **Email:** salem.g.salem.m@gmail.com  
+  - **Email:** salem.g.salem.m12@gmail.com  
   - **LinkedIn:** [Salem Gamal](https://www.linkedin.com/in/salemgamall/)
