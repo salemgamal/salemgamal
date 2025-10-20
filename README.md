@@ -24,13 +24,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
-###
 
-<p align="left">Hello World!!</p>
 
 ###
 
-<p align="left">Software Engineer specializing in .NET and Angular<br>I enjoy building scalable web applications and delivering high-quality, maintainable code.  <br>Passionate about clean architecture, performance optimization, and modern UI/UX design.</p>
+<p align=""center>
+  <strong>Software Engineer</strong> specializing in <strong>.NET</strong> and <strong>Angular</strong><br>
+  I enjoy building scalable web applications and delivering high-quality, maintainable code.<br>
+  Passionate about clean architecture, performance optimization, and modern UI/UX design.
+</p>
+
 
 ###
 
