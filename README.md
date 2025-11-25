@@ -37,8 +37,7 @@
 ###
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 ###
-[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/YaroslavPodorvanov)
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/salemgamall/" target="_blank">
