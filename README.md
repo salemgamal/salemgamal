@@ -34,7 +34,8 @@
   Passionate about clean architecture, performance optimization, and modern UI/UX design.
 </p>
 
-
+###
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
 ###
 
 <div align="left">
